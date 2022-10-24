@@ -4,7 +4,7 @@
     "contentApiKey": "b251f49b8b0f2a6afca2aa9c0f"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://abuthekky-app.herokuapp.com",
+    "contentApiKey": "b251f49b8b0f2a6afca2aa9c0f"
   }
 }
