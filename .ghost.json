@@ -1,7 +1,7 @@
 {
   "development": {
     "apiUrl": "https://abuthekky-app.herokuapp.com",
-    "contentApiKey": "6730c023a001c0f70b66e0c59b"
+    "contentApiKey": "1972e27e4afed0cec4ca8f80ce"
   },
   "production": {
     "apiUrl": "https://abuthekky-app.herokuapp.com",
